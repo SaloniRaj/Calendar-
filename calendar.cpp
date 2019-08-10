@@ -1,6 +1,3 @@
-/*
-27April:ProjectExhibition.
-*/
 #include <iostream>
 #include<string>
 #include<cmath>
