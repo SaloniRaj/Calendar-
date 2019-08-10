@@ -1,4 +1,4 @@
-# Calendar-
+# Calendar
  Displays a nicely formatted  Gregorian calendar (October 1752 - 9999) of every month.
 
 # Introducton
